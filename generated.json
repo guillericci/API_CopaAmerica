@@ -1,0 +1,285 @@
+{
+  "name": "Copa America 2024",
+  "rounds": [
+    {
+      "name": "Matchday 1",
+      "matches": [
+        {
+          "num": 1,
+          "date": "2024-06-20",
+          "time": "20:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Canada",
+            "code": "CAN"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "mercedes_benz",
+            "name": "Mercedes Benz Stadium"
+          },
+          "city": "Atlanta, GA",
+          "timezone": "UTC-4"
+        },
+        {
+          "num": 2,
+          "date": "2024-06-21",
+          "time": "19:00",
+          "team1": {
+            "name": "Peru",
+            "code": "PER"
+          },
+          "team2": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "at&t",
+            "name": "AT&T Stadium"
+          },
+          "city": "Arlington, TX",
+          "timezone": "UTC-5"
+        },
+        {
+          "num": 3,
+          "date": "2024-06-22",
+          "time": "20:00",
+          "team1": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "team2": {
+            "name": "Jamaica",
+            "code": "JAM"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "nrg",
+            "name": "NRG Stadium"
+          },
+          "city": "Houston, TX",
+          "timezone": "UTC-5"
+        },
+        {
+          "num": 4,
+          "date": "2024-06-22",
+          "time": "15:00",
+          "team1": {
+            "name": "Ecuador",
+            "code": "ECU"
+          },
+          "team2": {
+            "name": "Venezuela",
+            "code": "VEN"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group B",
+          "stadium": {
+            "key": "levi",
+            "name": "Levi's Stadium"
+          },
+          "city": "Santa Clara, CA",
+          "timezone": "UTC-7"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 2",
+      "matches": [
+        {
+          "num": 5,
+          "date": "2024-06-23",
+          "time": "17:00",
+          "team1": {
+            "name": "Estados Unidos",
+            "code": "USA"
+          },
+          "team2": {
+            "name": "Bolivia",
+            "code": "BOL"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "at&t",
+            "name": "AT&T Stadium"
+          },
+          "city": "Arlington, TX",
+          "timezone": "UTC-5"
+        },
+        {
+          "num": 6,
+          "date": "2024-06-23",
+          "time": "21:00",
+          "team1": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "team2": {
+            "name": "Panama",
+            "code": "PAN"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group C",
+          "stadium": {
+            "key": "hard_rock",
+            "name": "Hard Rock Stadium"
+          },
+          "city": "Miami, FL",
+          "timezone": "UTC-4"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 3",
+      "matches": [
+        {
+          "num": 7,
+          "date": "2024-06-24",
+          "time": "18:00",
+          "team1": {
+            "name": "Brasil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Costa Rica",
+            "code": "CRC"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "sofí",
+            "name": "Sofí Stadium"
+          },
+          "city": "Inglewood, CA",
+          "timezone": "UTC-7"
+        },
+        {
+          "num": 8,
+          "date": "2024-06-24",
+          "time": "17:00",
+          "team1": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "team2": {
+            "name": "Paraguay",
+            "code": "PAR"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group D",
+          "stadium": {
+            "key": "nrg",
+            "name": "NRG Stadium"
+          },
+          "city": "Houston, TX",
+          "timezone": "UTC-5"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 4",
+      "matches": [
+        {
+          "num": 9,
+          "date": "2024-06-25",
+          "time": "21:00",
+          "team1": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "team2": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "metlife",
+            "name": "MetLife Stadium"
+          },
+          "city": "East Rutherford, NJ",
+          "timezone": "UTC-4"
+        },
+        {
+          "num": 10,
+          "date": "2024-06-25",
+          "time": "17:00",
+          "team1": {
+            "name": "Peru",
+            "code": "PER"
+          },
+          "team2": {
+            "name": "Canada",
+            "code": "CAN"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "goals1": [],
+          "goals2": [],
+          "group": "Group A",
+          "stadium": {
+            "key": "children's_mercy_park",
+            "name": "Children's Mercy Park"
+          },
+          "city": "Kansas City, KS",
+          "timezone": "UTC-5"
+        }
+      ]
+    }
+  ]
+}
