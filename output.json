@@ -1,0 +1,290 @@
+[
+   {
+      "grupo": "A",
+      "partidos": [
+         {
+            "id_partido": 1,
+            "fecha": "2024-06-20",
+            "equipo1": "Argentina",
+            "equipo2": "Canadá",
+            "estadio": "Mercedes-Benz Stadium, Atlanta",
+            "resultado": "2-0",
+            "goles1": [
+               {
+                  "minuto": 49,
+                  "autor": "Julian Alvarez"
+               },
+               {
+                  "minuto": 88,
+                  "autor": "Lautaro Martinez"
+               }
+            ],
+            "goles2": []
+         },
+         {
+            "id_partido": 2,
+            "fecha": "2024-06-21",
+            "equipo1": "Perú",
+            "equipo2": "Chile",
+            "estadio": "AT&T Stadium, Arlington",
+            "resultado": "0-0",
+            "goles1": [],
+            "goles2": []
+         },
+         {
+            "id_partido": 3,
+            "fecha": "2024-06-25",
+            "equipo1": "Chile",
+            "equipo2": "Argentina",
+            "estadio": "MetLife Stadium, East Rutherford",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         },
+         {
+            "id_partido": 4,
+            "fecha": "2024-06-25",
+            "equipo1": "Perú",
+            "equipo2": "Canadá",
+            "estadio": "Children’s Mercy Park, Kansas City",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         },
+         {
+            "id_partido": 5,
+            "fecha": "2024-06-29",
+            "equipo1": "Argentina",
+            "equipo2": "Perú",
+            "estadio": "Hard Rock Stadium, Miami",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         },
+         {
+            "id_partido": 6,
+            "fecha": "2024-06-29",
+            "equipo1": "Canadá",
+            "equipo2": "Chile",
+            "estadio": "Exploria Stadium, Orlando",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         }
+      ]
+   },
+   {
+      "grupo": "B",
+      "partidos": [
+         {
+            "id_partido": 7,
+            "fecha": "2024-06-22",
+            "equipo1": "México",
+            "equipo2": "Jamaica",
+            "estadio": "NRG Stadium, Houston",
+            "resultado": "1-0",
+            "goles1": [
+               {
+                  "minuto": 69,
+                  "autor": "Arteaga"
+               }
+            ],
+            "goles2": []
+         },
+         {
+            "id_partido": 8,
+            "fecha": "2024-06-22",
+            "equipo1": "Ecuador",
+            "equipo2": "Venezuela",
+            "estadio": "Levi’s Stadium, Santa Clara",
+            "resultado": "1-2",
+            "goles1": [
+               {
+                  "minuto": 22,
+                  "autor": "Enner Valencia"
+               }
+            ],
+            "goles2": [
+               {
+                  "minuto": 64,
+                  "autor": "Cadiz"
+               },
+               {
+                  "minuto": 74,
+                  "autor": "Bello"
+               }
+            ]
+         },
+         {
+            "id_partido": 9,
+            "fecha": "2024-06-26",
+            "equipo1": "Venezuela",
+            "equipo2": "México",
+            "estadio": "SoFi Stadium, Inglewood",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         },
+         {
+            "id_partido": 10,
+            "fecha": "2024-06-26",
+            "equipo1": "Ecuador",
+            "equipo2": "Jamaica",
+            "estadio": "Allegiant Stadium, Paradise",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         },
+         {
+            "id_partido": 11,
+            "fecha": "2024-06-30",
+            "equipo1": "México",
+            "equipo2": "Ecuador",
+            "estadio": "State Farm Stadium, Glendale",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         },
+         {
+            "id_partido": 12,
+            "fecha": "2024-06-30",
+            "equipo1": "Jamaica",
+            "equipo2": "Venezuela",
+            "estadio": "Q2 Stadium, Austin",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         }
+      ]
+   },
+   {
+      "grupo": "C",
+      "partidos": [
+         {
+            "id_partido": 13,
+            "fecha": "2024-06-23",
+            "equipo1": "Estados Unidos",
+            "equipo2": "Bolivia",
+            "estadio": "AT&T Stadium, Arlington",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         },
+         {
+            "id_partido": 14,
+            "fecha": "2024-06-23",
+            "equipo1": "Uruguay",
+            "equipo2": "Panamá",
+            "estadio": "Hard Rock Stadium, Miami",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         },
+         {
+            "id_partido": 15,
+            "fecha": "2024-06-27",
+            "equipo1": "Panamá",
+            "equipo2": "Estados Unidos",
+            "estadio": "Mercedes-Benz Stadium, Atlanta",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         },
+         {
+            "id_partido": 16,
+            "fecha": "2024-06-27",
+            "equipo1": "Uruguay",
+            "equipo2": "Bolivia",
+            "estadio": "MetLife Stadium, East Rutherford",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         },
+         {
+            "id_partido": 17,
+            "fecha": "2024-07-01",
+            "equipo1": "Estados Unidos",
+            "equipo2": "Uruguay",
+            "estadio": "Arrowhead Stadium, Kansas City",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         },
+         {
+            "id_partido": 18,
+            "fecha": "2024-07-01",
+            "equipo1": "Bolivia",
+            "equipo2": "Panamá",
+            "estadio": "Exploria Stadium, Orlando",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         }
+      ]
+   },
+   {
+      "grupo": "D",
+      "partidos": [
+         {
+            "id_partido": 19,
+            "fecha": "2024-06-24",
+            "equipo1": "Brasil",
+            "equipo2": "Costa Rica",
+            "estadio": "SoFi Stadium, Inglewood",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         },
+         {
+            "id_partido": 20,
+            "fecha": "2024-06-24",
+            "equipo1": "Colombia",
+            "equipo2": "Paraguay",
+            "estadio": "NRG Stadium, Houston",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         },
+         {
+            "id_partido": 21,
+            "fecha": "2024-06-28",
+            "equipo1": "Paraguay",
+            "equipo2": "Brasil",
+            "estadio": "Allegiant Stadium, Paradise",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         },
+         {
+            "id_partido": 22,
+            "fecha": "2024-06-28",
+            "equipo1": "Colombia",
+            "equipo2": "Costa Rica",
+            "estadio": "State Farm Stadium, Glendale",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         },
+         {
+            "id_partido": 23,
+            "fecha": "2024-07-02",
+            "equipo1": "Brasil",
+            "equipo2": "Colombia",
+            "estadio": "Levi’s Stadium, Santa Clara",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         },
+         {
+            "id_partido": 24,
+            "fecha": "2024-07-02",
+            "equipo1": "Costa Rica",
+            "equipo2": "Paraguay",
+            "estadio": "Q2 Stadium, Austin",
+            "resultado": null,
+            "goles1": [],
+            "goles2": []
+         }
+      ]
+   }
+]
