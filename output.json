@@ -37,9 +37,12 @@
             "equipo1": "Chile",
             "equipo2": "Argentina",
             "estadio": "MetLife Stadium, East Rutherford",
-            "resultado": null,
+            "resultado": "0-1",
             "goles1": [],
-            "goles2": []
+            "goles2": [{
+                  "minuto": 88,
+                  "autor": "Lautaro Martinez"
+               }]
          },
          {
             "id_partido": 4,
@@ -47,9 +50,12 @@
             "equipo1": "Peru",
             "equipo2": "Canada",
             "estadio": "Children’s Mercy Park, Kansas City",
-            "resultado": null,
+            "resultado": "0-1",
             "goles1": [],
-            "goles2": []
+            "goles2": [{
+                  "minuto": 74,
+                  "autor": "David"
+               }]
          },
          {
             "id_partido": 5,
@@ -57,8 +63,15 @@
             "equipo1": "Argentina",
             "equipo2": "Peru",
             "estadio": "Hard Rock Stadium, Miami",
-            "resultado": null,
-            "goles1": [],
+            "resultado": "2-0",
+            "goles1": [{
+                  "minuto": 47,
+                  "autor": "Lautaro Martinez"
+               },
+            {
+                  "minuto": 88,
+                  "autor": "Lautaro Martinez"
+               }],
             "goles2": []
          },
          {
@@ -67,7 +80,7 @@
             "equipo1": "Canada",
             "equipo2": "Chile",
             "estadio": "Exploria Stadium, Orlando",
-            "resultado": null,
+            "resultado": "0-0",
             "goles1": [],
             "goles2": []
          }
@@ -100,8 +113,8 @@
             "resultado": "1-2",
             "goles1": [
                {
-                  "minuto": 22,
-                  "autor": "Enner Valencia"
+                  "minuto": 40,
+                  "autor": "Sarmiento"
                }
             ],
             "goles2": [
@@ -121,8 +134,11 @@
             "equipo1": "Venezuela",
             "equipo2": "Mexico",
             "estadio": "SoFi Stadium, Inglewood",
-            "resultado": null,
-            "goles1": [],
+            "resultado": "1-0",
+            "goles1": [{
+                  "minuto": 57,
+                  "autor": "Rondon"
+               }],
             "goles2": []
          },
          {
@@ -131,9 +147,21 @@
             "equipo1": "Ecuador",
             "equipo2": "Jamaica",
             "estadio": "Allegiant Stadium, Paradise",
-            "resultado": null,
-            "goles1": [],
-            "goles2": []
+            "resultado": "3-1",
+            "goles1": [{
+                  "minuto": 13,
+                  "autor": "Palmer"
+               },{
+                  "minuto": 45,
+                  "autor": "Paez"
+               },{
+                  "minuto": 91,
+                  "autor": "Minda"
+               }],
+            "goles2": [{
+                  "minuto": 54,
+                  "autor": "Antonio"
+               }]
          },
          {
             "id_partido": 11,
@@ -141,7 +169,7 @@
             "equipo1": "Mexico",
             "equipo2": "Ecuador",
             "estadio": "State Farm Stadium, Glendale",
-            "resultado": null,
+            "resultado": "0-0",
             "goles1": [],
             "goles2": []
          },
@@ -151,9 +179,18 @@
             "equipo1": "Jamaica",
             "equipo2": "Venezuela",
             "estadio": "Q2 Stadium, Austin",
-            "resultado": null,
+            "resultado": "0-3",
             "goles1": [],
-            "goles2": []
+            "goles2": [{
+                  "minuto": 49,
+                  "autor": "Bello"
+               },{
+                  "minuto": 56,
+                  "autor": "Rondon"
+               },{
+                  "minuto": 85,
+                  "autor": "Ramirez"
+               }]
          }
       ]
    },
@@ -166,8 +203,14 @@
             "equipo1": "Estados Unidos",
             "equipo2": "Bolivia",
             "estadio": "AT&T Stadium, Arlington",
-            "resultado": null,
-            "goles1": [],
+            "resultado": "2-0",
+            "goles1": [{
+                  "minuto": 3,
+                  "autor": "Pulisic"
+               },{
+                  "minuto": 44,
+                  "autor": "Balogun"
+               }],
             "goles2": []
          },
          {
@@ -176,9 +219,21 @@
             "equipo1": "Uruguay",
             "equipo2": "Panama",
             "estadio": "Hard Rock Stadium, Miami",
-            "resultado": null,
-            "goles1": [],
-            "goles2": []
+            "resultado": "3-1",
+            "goles1": [{
+                  "minuto": 16,
+                  "autor": "M. Araujo"
+               },{
+                  "minuto": 85,
+                  "autor": "Nuñez"
+               },{
+                  "minuto": 91,
+                  "autor": "Viña"
+               }],
+            "goles2": [{
+                  "minuto": 94,
+                  "autor": "Murillo"
+               }]
          },
          {
             "id_partido": 15,
@@ -186,9 +241,18 @@
             "equipo1": "Panama",
             "equipo2": "Estados Unidos",
             "estadio": "Mercedes-Benz Stadium, Atlanta",
-            "resultado": null,
-            "goles1": [],
-            "goles2": []
+            "resultado": "2-1",
+            "goles1": [{
+                  "minuto": 26,
+                  "autor": "Blackman"
+               },{
+                  "minuto": 83,
+                  "autor": "Fajardo"
+               }],
+            "goles2": [{
+                  "minuto": 22,
+                  "autor": "Balogun"
+               }]
          },
          {
             "id_partido": 16,
@@ -196,8 +260,23 @@
             "equipo1": "Uruguay",
             "equipo2": "Bolivia",
             "estadio": "MetLife Stadium, East Rutherford",
-            "resultado": null,
-            "goles1": [],
+            "resultado": "5-0",
+            "goles1": [{
+                  "minuto": 8,
+                  "autor": "Pellistri"
+               },{
+                  "minuto": 21,
+                  "autor": "Nuñez"
+               },{
+                  "minuto": 77,
+                  "autor": "M. Araujo"
+               },{
+                  "minuto": 81,
+                  "autor": "Velverde"
+               },{
+                  "minuto": 89,
+                  "autor": "Bentancur"
+               }],
             "goles2": []
          },
          {
@@ -206,9 +285,12 @@
             "equipo1": "Estados Unidos",
             "equipo2": "Uruguay",
             "estadio": "Arrowhead Stadium, Kansas City",
-            "resultado": null,
+            "resultado": "0-1",
             "goles1": [],
-            "goles2": []
+            "goles2": [{
+                  "minuto": 66,
+                  "autor": "M. Olivera"
+               }]
          },
          {
             "id_partido": 18,
@@ -216,9 +298,21 @@
             "equipo1": "Bolivia",
             "equipo2": "Panama",
             "estadio": "Exploria Stadium, Orlando",
-            "resultado": null,
-            "goles1": [],
-            "goles2": []
+            "resultado": "1-3",
+            "goles1": [{
+                  "minuto": 69,
+                  "autor": "Miranda"
+               }],
+            "goles2": [{
+                  "minuto": 22,
+                  "autor": "Fajardo"
+               },{
+                  "minuto": 79,
+                  "autor": "Guerrero"
+               },{
+                  "minuto": 91,
+                  "autor": "Yanis"
+               }]
          }
       ]
    },
@@ -231,7 +325,7 @@
             "equipo1": "Brasil",
             "equipo2": "Costa Rica",
             "estadio": "SoFi Stadium, Inglewood",
-            "resultado": null,
+            "resultado": "0-0",
             "goles1": [],
             "goles2": []
          },
@@ -241,9 +335,18 @@
             "equipo1": "Colombia",
             "equipo2": "Paraguay",
             "estadio": "NRG Stadium, Houston",
-            "resultado": null,
-            "goles1": [],
-            "goles2": []
+            "resultado": "2-1",
+            "goles1": [{
+                  "minuto": 32,
+                  "autor": "Muñoz"
+               },{
+                  "minuto": 42,
+                  "autor": "Lerma"
+               }],
+            "goles2": [{
+                  "minuto": 69,
+                  "autor": "Enciso"
+               }]
          },
          {
             "id_partido": 21,
@@ -251,9 +354,24 @@
             "equipo1": "Paraguay",
             "equipo2": "Brasil",
             "estadio": "Allegiant Stadium, Paradise",
-            "resultado": null,
-            "goles1": [],
-            "goles2": []
+            "resultado": "1-4",
+            "goles1": [{
+                  "minuto": 48,
+                  "autor": "Alderete"
+               }],
+            "goles2": [{
+                  "minuto": 35,
+                  "autor": "Vinicius Junior"
+               },{
+                  "minuto": 45,
+                  "autor": "Vinicius Junior"
+               },{
+                  "minuto": 43,
+                  "autor": "Savinho"
+               },{
+                  "minuto": 65,
+                  "autor": "Lucas Paqueta"
+               }]
          },
          {
             "id_partido": 22,
@@ -261,8 +379,17 @@
             "equipo1": "Colombia",
             "equipo2": "Costa Rica",
             "estadio": "State Farm Stadium, Glendale",
-            "resultado": null,
-            "goles1": [],
+            "resultado": "3-0",
+            "goles1": [{
+                  "minuto": 31,
+                  "autor": "Diaz"
+               },{
+                  "minuto": 59,
+                  "autor": "Sanchez"
+               },{
+                  "minuto": 62,
+                  "autor": "Cordoba"
+               }],
             "goles2": []
          },
          {
@@ -271,9 +398,15 @@
             "equipo1": "Brasil",
             "equipo2": "Colombia",
             "estadio": "Levi’s Stadium, Santa Clara",
-            "resultado": null,
-            "goles1": [],
-            "goles2": []
+            "resultado": "1-1",
+            "goles1": [{
+                  "minuto": 12,
+                  "autor": "Raphinha"
+               }],
+            "goles2": [{
+                  "minuto": 45,
+                  "autor": "Muñoz"
+               }]
          },
          {
             "id_partido": 24,
@@ -281,10 +414,152 @@
             "equipo1": "Costa Rica",
             "equipo2": "Paraguay",
             "estadio": "Q2 Stadium, Austin",
-            "resultado": null,
-            "goles1": [],
-            "goles2": []
+            "resultado": "2-1",
+            "goles1": [{
+                  "minuto": 3,
+                  "autor": "Calvo"
+               },{
+                  "minuto": 7,
+                  "autor": "Alcocer"
+               }],
+            "goles2": [{
+                  "minuto": 55,
+                  "autor": "Sosa"
+               }]
          }
       ]
+   },
+   {
+      "grupo": "Cuartos de final",
+      "partidos": [
+         {
+            "id_partido": 25,
+            "fecha": "2024-07-04",
+            "equipo1": "Argentina",
+            "equipo2": "Ecuador",
+            "estadio": "NRG Stadium, Houston",
+            "resultado": "1-1",
+            "goles1": [{
+                  "minuto": 35,
+                  "autor": "Lisandro Martinez"
+               }],
+            "goles2": [{
+                  "minuto": 91,
+                  "autor": "Rodriguez"
+               }]
+         },
+         {
+            "id_partido": 26,
+            "fecha": "2024-07-05",
+            "equipo1": "Venezuela",
+            "equipo2": "Canada",
+            "estadio": "AT&T Stadium, Arlington",
+            "resultado": "1-1",
+            "goles1": [{
+                  "minuto": 64,
+                  "autor": "Rondon"
+               }],
+            "goles2": [{
+                  "minuto": 13,
+                  "autor": "Shaffelburg"
+               }]
+         },
+         {
+            "id_partido": 27,
+            "fecha": "2024-07-06",
+            "equipo1": "Colombia",
+            "equipo2": "Panama",
+            "estadio": "State Farm Stadium, Glendale",
+            "resultado": "5-0",
+            "goles1": [{
+                  "minuto": 8,
+                  "autor": "Cordoba"
+               },{
+                  "minuto": 15,
+                  "autor": "Rodriguez"
+               },{
+                  "minuto": 41,
+                  "autor": "Diaz"
+               },{
+                  "minuto": 70,
+                  "autor": "Rios"
+               },{
+                  "minuto": 94,
+                  "autor": "Borja"
+               }],
+            "goles2": []
+         },
+         {
+            "id_partido": 28,
+            "fecha": "2024-07-06",
+            "equipo1": "Uruguay",
+            "equipo2": "Brasil",
+            "estadio": "Allegiant Stadium, Paradise",
+            "resultado": "0-0",
+            "goles1": [],
+            "goles2": []
+         }]
+      },
+   {
+      "grupo": "Semifinales",
+      "partidos": [
+         {
+            "id_partido": 29,
+            "fecha": "2024-07-09",
+            "equipo1": "Argentina",
+            "equipo2": "Canada",
+            "estadio": "MetLife Stadium, East Rutherford",
+            "resultado": "2-0",
+            "goles1": [{
+                  "minuto": 22,
+                  "autor": "Alvarez"
+               },{
+                  "minuto": 51,
+                  "autor": "Messi"
+               }],
+            "goles2": []
+         },
+         {
+            "id_partido": 30,
+            "fecha": "2024-07-10",
+            "equipo1": "Uruguay",
+            "equipo2": "Colombia",
+            "estadio": "Bank of America Stadium, Charlotte",
+            "resultado": "0-1",
+            "goles1": [],
+            "goles2": [{
+                  "minuto": 39,
+                  "autor": "Lerma"
+               }]
+         }
+      ]
+   },
+   {
+      "grupo": "Tercer Puesto",
+      "partidos": [
+         {
+            "id_partido": 31,
+            "fecha": "2024-07-13",
+            "equipo1": "Canada",
+            "equipo2": "Uruguay",
+            "estadio": "Bank of America Stadium, Charlotte",
+            "resultado": "0-0",
+            "goles1": [],
+            "goles2": []
+         }]
+   },
+   {
+      "grupo": "Final",
+      "partidos": [
+         {
+            "id_partido": 32,
+            "fecha": "2024-07-14",
+            "equipo1": "Argentina",
+            "equipo2": "Colombia",
+            "estadio": "Hard Rock Stadium, Miami Gardens",
+            "resultado": "0-0",
+            "goles1": [],
+            "goles2": []
+         }]
    }
 ]
