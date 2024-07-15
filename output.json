@@ -543,9 +543,21 @@
             "equipo1": "Canada",
             "equipo2": "Uruguay",
             "estadio": "Bank of America Stadium, Charlotte",
-            "resultado": "0-0",
-            "goles1": [],
-            "goles2": []
+            "resultado": "2-2",
+            "goles1": [{
+                  "minuto": 22,
+                  "autor": "Ismael Kone"
+               },{
+                  "minuto": 80,
+                  "autor": "Jonathan David"
+               }],
+            "goles2": [{
+                  "minuto": 8,
+                  "autor": "Rodrigo Bentancur"
+               },{
+                  "minuto": 92,
+                  "autor": "Luis Suarez"
+               }]
          }]
    },
    {
@@ -557,8 +569,11 @@
             "equipo1": "Argentina",
             "equipo2": "Colombia",
             "estadio": "Hard Rock Stadium, Miami Gardens",
-            "resultado": "0-0",
-            "goles1": [],
+            "resultado": "1-0",
+            "goles1": [{
+                  "minuto": 112,
+                  "autor": "Lautaro Martinez"
+               }],
             "goles2": []
          }]
    }
