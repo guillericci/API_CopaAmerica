@@ -9,6 +9,7 @@ El proyecto contiene los siguientes archivos principales:
 - `usuario.py`: Script del cliente para interactuar con la API.
 - `servidor.py`: Implementación de los endpoints de la API.
 - `utils.py`: Utilidades para leer y escribir en el archivo JSON.
+- `requirements.txt`: Archivo con dependencias a instalar.
 
 ## Requisitos Previos
 - Python 3.9 o superior
